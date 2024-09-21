@@ -1,4 +1,5 @@
 # Ransomware Decryption Key Brute-Forcing
+![image](https://github.com/user-attachments/assets/993839c4-4ca3-4c47-baf5-facefb00304a)
 
 ## Task Description
 
